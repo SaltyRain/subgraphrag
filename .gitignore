@@ -205,3 +205,95 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm project files
+.idea/
+
+# VS Code project files
+.vscode/
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables
+.env
+
+# Pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# mypy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# Pytype
+.pytype/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Test reports
+*.log
+*.tmp
+
+# LLM / HuggingFace cache
+.cache/
+*.ckpt
+*.pth
+*.pt
+*.bin
+
+# Datasets
+data/
+datasets/
+*.csv
+*.tsv
+*.jsonl
+
+# Resource files
+resources/
+
+# Model outputs / runs
+runs/
+outputs/
+results/
+artifacts/
+intermediate/
+archive/
+
+storage/
+master-thesis-resources.rar
+
+# Tokenizer and model configs
+tokenizer_config.json
+special_tokens_map.json
+generation_config.json
+
+# Checkpoints
+checkpoints/
+
+
+notes.txt
